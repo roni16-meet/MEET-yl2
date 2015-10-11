@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+<title> roni yo </title>
+
+<style>
+@font-face {
+font-family:'Great Vibes'; src:url('GreatVibes-Regular.otf');
+}
+.ali{font-size:300%;color:blue;text-align:center; font-family:'Great Vibes'}
+li{text-align:center}
+</style>
+</head>
+<body style="background-color:green">
+<img width="500" height="500" src="itamar.jpg">
+<p> roni yo </p>
+<h1 style="font-size:150%">shut up stupid</h1>
+
+<a href="http://google.com"> google yooooooo</a>
+<p class=ali>what shall i do today?</p>
+<ol>
+<li> go to school</li>
+<li> learn some stuff</li>
+<span class=ali><li>party</li>
+<li>party</li><li>party</li><li>party</li><li>party</li><li>party</li><li>party</li><li>party</li><li>party</li><li>party</li><li>party</li><li>party</li><li>party</li><li>party</li><li>party</li></span>
+</ol>
+<form>
+<div style="border:1px solid black; width=200px">
+<p class="ali">Who shall be crowned le king</p>
+<center><span class="ali">
+<input type="radio" name="choose_whose_cooler">Roni<br>
+<input type="radio" name="choose_whose_cooler">Roni<br>
+<input type="radio" name="choose_whose_cooler">Roni<br>
+<input type="radio" name="choose_whose_cooler">Roni<br>
+<input type="radio" name="choose_whose_cooler">Roni<br>
+<input type="radio" name="choose_whose_cooler">Roni<br>
+<input type="radio" name="choose_whose_cooler">Shaltiel<br>
+<input type="submit" value="you shall be blessed">
+</center>
+</span>
+</div>
+</form>
+</body>
+</html>
+
