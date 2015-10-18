@@ -1,0 +1,9 @@
+@font-face {
+font-family:'Great Vibes'; src:url('GreatVibes-Regular.otf');
+}
+.ali{font-size:500%;color:#6699FF;text-align:center; font-family:'Great Vibes'}
+li{text-align:center}
+.nice{font-size:300%;color:#330066}
+.red{font-size:200%;color:red;font-family:'Arial'}
+.div1{position:relative; left:100px} 
+
