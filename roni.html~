@@ -17,12 +17,12 @@ li{text-align:center}
 <body background="leaves.jpg">
 
 <center>
-<p class="ali"><a href="http://google.com"> google yooooooo</a> </p>
- <p class="ali"><a href="home.html">Home </a></p>
-<p class="ali"><a href="contact_me.html"> contact my se-elf</a></p></center>
+<p class="link"><a href="http://google.com"> google yooooooo</a> </p>
+ <p class="link"><a href="home.html">Home </a></p>
+<p class="link"><a href="contact_me.html"> contact my se-elf</a></p></center>
 
 <p class=ali>what shall i do today?</p>
-<div class="div1">
+<div >
 <ol>
 <span class=ali>
 <li> go to school</li>
@@ -32,7 +32,7 @@ li{text-align:center}
 </ol>
 </div>
 <form>
-<div style="border:5px solid black; width: 200px;">
+<div class="div1">
 <p class="ali">Who shall be crowned le king</p>
 <center><span class="ali">
 <input type="radio" name="choose_whose_cooler">Roni<br>

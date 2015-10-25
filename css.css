@@ -1,9 +1,21 @@
 @font-face {
 font-family:'Great Vibes'; src:url('GreatVibes-Regular.otf');
+
 }
+@font-face{
+font-family:'cool';src:url('HGTenderfoot.ttf');}
 .ali{font-size:500%;color:#6699FF;text-align:center; font-family:'Great Vibes'}
 li{text-align:center}
 .nice{font-size:300%;color:#330066}
 .red{font-size:200%;color:red;font-family:'Arial'}
 .div1{position:relative; left:100px; float:left} 
+.link{color:blue;font-family:'cool';font-size:325%;}
+a:link, a:visited {
+    color: green;
+    text-decoration: underline;
+    
+}
 
+a:link:active, a:visited:active {
+    color: green;
+} 
