@@ -3,7 +3,7 @@
 <head>
 
 <title> roni yo </title>
-<link rel="stylesheet" type="text/css" href="css.css">
+<link rel="stylesheet" type="text/css" href="{{url_for('static',filename='css.css'}}">
 <style>
 @font-face {
 font-family:'Great Vibes'; src:url('GreatVibes-Regular.otf');
@@ -14,12 +14,12 @@ li{text-align:center}
 .red{font-size:200%;color:red;font-family:'Arial'}
 </style>
 </head>
-<body background="leaves.jpg">
+<body background="{{url_for('static',filename='leaves.jpg')}}">
 
 <center>
 <p class="link"><a href="http://google.com"> google yooooooo</a> </p>
- <p class="link"><a href="home.html">Home </a></p>
-<p class="link"><a href="contact_me.html"> contact my se-elf</a></p></center>
+ <p class="link"><a href="{{url_for('home')}}">Home </a></p>
+<p class="link"><a href="{{url_for('contact_me')}}"> contact my se-elf</a></p></center>
 
 <p class=ali>what shall i do today?</p>
 <div >
